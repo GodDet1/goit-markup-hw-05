@@ -316,6 +316,12 @@ div.is-hidden {
   border-radius: 50%;
 }
 
+.hero-modal.hero-modal_exit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 /* About us */
 
 .us {
